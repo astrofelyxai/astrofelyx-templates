@@ -1,0 +1,77 @@
+[
+  {
+    "id": "h_component_485742",
+    "path": "library/headers/header_component_485742.html",
+    "type": "header",
+    "keywords": [
+      "kuaf",
+      "sitesi",
+      "koyu",
+      "neon",
+      "tema",
+      "slayt",
+      "galeri",
+      "hakk"
+    ]
+  },
+  {
+    "id": "hr_component_485742",
+    "path": "library/heroes/hero_component_485742.html",
+    "type": "hero",
+    "keywords": [
+      "kuaf",
+      "sitesi",
+      "koyu",
+      "neon",
+      "tema",
+      "slayt",
+      "galeri",
+      "hakk"
+    ]
+  },
+  {
+    "id": "f_component_485742",
+    "path": "library/features/feature_component_485742.html",
+    "type": "feature",
+    "keywords": [
+      "kuaf",
+      "sitesi",
+      "koyu",
+      "neon",
+      "tema",
+      "slayt",
+      "galeri",
+      "hakk"
+    ]
+  },
+  {
+    "id": "ft_component_485742",
+    "path": "library/footers/footer_component_485742.html",
+    "type": "footer",
+    "keywords": [
+      "kuaf",
+      "sitesi",
+      "koyu",
+      "neon",
+      "tema",
+      "slayt",
+      "galeri",
+      "hakk"
+    ]
+  },
+  {
+    "id": "an_component_485742",
+    "path": "library/animations/anim_component_485742.css",
+    "type": "animation",
+    "keywords": [
+      "kuaf",
+      "sitesi",
+      "koyu",
+      "neon",
+      "tema",
+      "slayt",
+      "galeri",
+      "hakk"
+    ]
+  }
+]
